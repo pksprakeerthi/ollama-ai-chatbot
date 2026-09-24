@@ -1,0 +1,9 @@
+Streamlit
+Ollama
+
+from sklearn.linear_model import LinearRegression
+
+1. what is determinism
+2. what is encoder and decoder in transformaer architecture
+3. what is an activation fuction and why we use it 
+4. what is back propogation alogrithm and where we use it 
